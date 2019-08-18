@@ -1,4 +1,6 @@
 <project>
+   <groupId>com.javatpoint.application1</groupId>  
+  <artifactId>my-app</artifactId> 
   <version>1.0.0</version>
   <package>jar</package>
 </project>
